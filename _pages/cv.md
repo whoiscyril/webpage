@@ -11,17 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Theoretical and Computational Chemistry, University College London, 2021 - NOW
+* MSc in Molecular Modelling, University College London, 2020 - 2021
+* BSc in Chemistry and Management, Imperial College London, 2016 - 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
+* Apple Regent Street, London, UK
+  * Specialist
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
@@ -57,6 +54,7 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
 You can download a PDF copy of my CV [here](/files/pdf/CV.pdf).
 
 
