@@ -88,10 +88,10 @@ author:
   location         : "London, UK"
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  orcid            : ""
+  googlescholar    : ""
+  email            : "uccazxu@ucl.ac.uk"
+  researchgate     :  # example: ""
   uri              :
   bitbucket        :
   codepen          :
