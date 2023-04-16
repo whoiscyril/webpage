@@ -23,8 +23,8 @@ You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
 You can find a selection of my teaching materials, including all of the labs
 from Advanced Topics in Political Data Science, [here](/teaching-materials).
 
-## Washington University in St. Louis
-- CHEM0053 
+## University College London
+- CHEM0053 Frontiers in Materials Modelling
 [//]: #    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
 
 
