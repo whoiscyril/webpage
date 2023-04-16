@@ -7,7 +7,6 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-A short introduction of my project in layman's term can be found [here](https://gulp.curtin.edu.au/local/docs/gulp/gulp_31_manual/gulpnode23.html).
 
 <nbsp>
 
