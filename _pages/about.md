@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am a PhD student in theoretical and computational chemistry at University College London. Specialised in using numerical methods to treat complex periodic atomic structures, my current project focuses on developing novel theoretical methods to calculate lattice properties of 2D materials under periodic boundary conditions. Specifically, I am interested in the behaviours of defects in layered materials and their industrial applications. I obtained my MSc. degree at University College London with high distinction, and my BSc. degree at Imperial College London. 
+Hi, I am a PhD student in theoretical and computational chemistry at University College London. Specialised in using numerical methods to investigate materials properties, my current project focuses on developing novel theoretical methods to expore complex energy landscapes of materials with point defects. Specifically, I am interested in the behaviours of defects in crystalline materials and developing methods to model such behaviours. I obtained my MSc. degree at University College London with high distinction, and my BSc. degree at Imperial College London. 
 
 <!---
 My work has been [published](publications) or is forthcoming in
