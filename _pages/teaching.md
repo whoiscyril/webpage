@@ -12,7 +12,6 @@ section at UCL, as well as leading undergrdaute tutorials for one year
 
 ## University College London
 - CHEM0053 Frontiers in Materials Modelling
-[//]: #    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
 - CHEM0002 Quantitative Chemistry
 - CHEM0025 Instrumental and Computational Techniques in Chemistry
 - CHEM0009 Basic Physical Chemistry
