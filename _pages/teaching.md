@@ -4,29 +4,20 @@ title: "Teaching"
 ---
 
 Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
-[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
-[The Carpentries](https://carpentries.org/), which develops evidence-based
-methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
-
-
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
+analytical skills and master the tools of computational chemistry through hands-on
+experience. I have taught a range of mathematics, physics and chemistry modules at both graduate 
+and undergraduate level at UCL. 
+I also served as a teaching assistant for computational labs in the physical chemistry
+section at UCL, as well as leading undergrdaute tutorials for one year
 
 ## University College London
 - CHEM0053 Frontiers in Materials Modelling
+---
 [//]: #    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-
+---
+- CHEM0002 Quantitative Chemistry
+- CHEM0025 Instrumental and Computational Techniques in Chemistry
+- CHEM0009 Basic Physical Chemistry
 
 
 
