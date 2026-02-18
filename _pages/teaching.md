@@ -11,6 +11,7 @@ I also served as a teaching assistant for computational labs in the physical che
 section at UCL, as well as leading undergrdaute tutorials for one year
 
 ## University College London
+- CHEM0007
 - CHEM0053 Frontiers in Materials Modelling
 - CHEM0002 Quantitative Chemistry
 - CHEM0025 Instrumental and Computational Techniques in Chemistry
